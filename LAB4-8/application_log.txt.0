@@ -1,0 +1,6 @@
+Jan 14, 2021 1:11:03 AM com.Hnitetskyi.CarsList.TaxiPark sortByFuelSpend
+INFO: Successfully sorted all cars by fuel spend
+Jan 14, 2021 1:11:04 AM com.Hnitetskyi.CarsList.TaxiPark printAllCars
+INFO: Trying to print all cars, but not one of them was created
+Jan 14, 2021 1:11:06 AM com.Hnitetskyi.Utility.Menu consoleMenu
+INFO: Exit the program
